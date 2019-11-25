@@ -1,5 +1,5 @@
 # atbowers7.github.io
-August Bowers - Elements
+
 <!DOCTYPE html>
 <html> 
 <head>
