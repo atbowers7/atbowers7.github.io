@@ -3,7 +3,8 @@
 <!DOCTYPE html>
 <html> 
 
-<head> <Elements> </title>
+<head> 
+<title>Elements</title>
 </head>
 
 <h1 style="background-color:Orange;">Oxygen</h1>
